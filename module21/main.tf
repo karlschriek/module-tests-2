@@ -1,5 +1,5 @@
 resource random_pet  m21 {}
 
-module "m213" {
-    source = "git@github.com:karlschriek/module-tests-3.git"
+module "m214" {
+    source = "git@github.com:karlschriek/module-tests-4.git"
 }
